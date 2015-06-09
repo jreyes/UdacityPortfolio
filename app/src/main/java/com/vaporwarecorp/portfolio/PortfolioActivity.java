@@ -1,4 +1,4 @@
-package jreyes.portfolio;
+package com.vaporwarecorp.portfolio;
 
 import android.app.Activity;
 import android.os.Bundle;

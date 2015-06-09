@@ -21,11 +21,4 @@
         <item name="android:textColor">@color/material_red_50</item>
     </style>
 
-    <color name="material_amber_500">#FFC107</color>
-    <color name="material_deep_orange_50">#FBE9E7</color>
-    <color name="material_deep_orange_400">#FF7043</color>
-    <color name="material_deep_orange_500">#FF5722</color>
-    <color name="material_red_50">#FFEBEE</color>
-    <color name="material_red_500">#F44336</color>
-
 </resources>

@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.0 rc2"
 
     defaultConfig {
-        applicationId "jreyes.portfolio"
+        applicationId "com.vaporwarecorp.portfolio"
         minSdkVersion 21
         targetSdkVersion 22
         versionCode 1
