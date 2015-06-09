@@ -9,18 +9,19 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context=".PortfolioActivity">
 
-    <EditText
-        android:id="@+id/editText"
+    <TextView
+        android:id="@+id/main_menu_header"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
+        android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="@string/main_menu_header" />
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/editText"
+        android:layout_below="@+id/main_menu_header"
         android:layout_centerHorizontal="true"
         android:orientation="vertical">
 
@@ -54,4 +55,5 @@
             style="@style/Button.Red"
             android:text="@string/capstone_title" />
     </LinearLayout>
+
 </RelativeLayout>
